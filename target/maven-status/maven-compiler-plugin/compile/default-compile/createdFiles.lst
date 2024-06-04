@@ -1,0 +1,5 @@
+com/sl/demo/RestServiceApplication.class
+com/sl/demo/task/Task.class
+com/sl/demo/exception/ResourceNotFoundException.class
+com/sl/demo/exception/BadRequestException.class
+com/sl/demo/task/TaskController.class
